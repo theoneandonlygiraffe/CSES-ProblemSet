@@ -1,0 +1,3 @@
+algorithmic vs sum
+
+paralisaton?
